@@ -1,6 +1,13 @@
-## Hi there 👋
+## ✨Hi there 👋 ✨
 
-I am a Python Developer, working with Django, DjangoREST, FastAPI, Scrapy and others. I have a strong knowledge of Python/OOP as well as SOLID concepts, also I have expiriance of using the SQLite and PostgreSQL databases. 
+💬 Ask me about:
+- Python/OOP and SOLID concepts
+- DjangoREST
+- Django 
+- Docker
+- Design Patterns
+- SQLite, Postgresql
+- Celery
 
 <!--
 **kleotan901/kleotan901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
