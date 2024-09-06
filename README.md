@@ -1,7 +1,7 @@
 
-# Hi there, I'm Tetiana 👋
+# 🌟 Hi there, I'm Tetiana 👋
 
-Welcome to my GitHub profile! I'm a passionate Python Developer with a focus on building efficient and scalable web applications. I specialize in Django REST Framework and love exploring new technologies.
+✨ Welcome to my GitHub profile! I'm a passionate Python Developer with a focus on building efficient and scalable web applications. I specialize in Django REST Framework and love exploring new technologies.
 
 
 ## 🛠️ Skills & Technologies
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Python Developer with a focus on 
 </p>
 
 
-Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on a project or just have a chat!
+💻 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on a project or just have a chat!
 
 ## 📫 How to Reach Me
 
