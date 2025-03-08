@@ -29,7 +29,7 @@
 ## 📫 How to Reach Me
 
 - **Email:** tetiana.kozakova.pydev@gmail.com
-- **LinkedIn:** [Tetiana Kozakova](https://www.linkedin.com/in/tetianakozakova)
+- **LinkedIn:** [Tetiana Kozakova](https://www.linkedin.com/in/tetiana-kozakova-42a5a126b)
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=tetiana-kozakova&color=blue)
 <!--
